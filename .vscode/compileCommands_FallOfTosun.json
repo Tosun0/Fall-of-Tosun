@@ -1,0 +1,58 @@
+[
+	{
+		"file": "D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\Source\\FallOfTosun\\FallOfTosun.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.42.34321\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\.vscode\\compileCommands_FallOfTosun\\FallOfTosun.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\Source\\FallOfTosun\\FallOfTosun.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.42.34321\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\.vscode\\compileCommands_FallOfTosun\\FallOfTosun.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\Source\\FallOfTosun\\FallOfTosun.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.42.34321\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\.vscode\\compileCommands_FallOfTosun\\FallOfTosun.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\Source\\FallOfTosun\\FallOfTosunCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.42.34321\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\.vscode\\compileCommands_FallOfTosun\\FallOfTosun.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\Source\\FallOfTosun\\FallOfTosunCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.42.34321\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\.vscode\\compileCommands_FallOfTosun\\FallOfTosun.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\Source\\FallOfTosun\\FallOfTosunGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.42.34321\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\.vscode\\compileCommands_FallOfTosun\\FallOfTosun.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\Epic Games\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\Source\\FallOfTosun\\FallOfTosunGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\VC\\Tools\\MSVC\\14.42.34321\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\Portfolio\\_Unreal Projects\\Fall-of-Tosun\\.vscode\\compileCommands_FallOfTosun\\FallOfTosun.1.rsp"
+		],
+		"directory": "D:\\Program Files (x86)\\Epic Games\\UE_5.5\\Engine\\Source"
+	}
+]
